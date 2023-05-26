@@ -16,7 +16,7 @@ Esta é uma calculadora simples implementada em Python que permite ao usuário r
 4. Execute o seguinte comando:
 
 ```shell
-python calculadora.py
+python3 calculadora.py
 ```
 
 ## Observações
